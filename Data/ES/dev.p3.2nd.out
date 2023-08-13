@@ -839,7 +839,7 @@ buena B-positive
 comida B-positive
 , I-positive
 en O
-un I-negative
+un I-neutral
 ambiente B-neutral
 agradable I-neutral
 , O
@@ -1770,7 +1770,7 @@ estuve I-positive
 cenando O
 en I-neutral
 el O
-nuevo I-negative
+nuevo I-neutral
 restaurante B-positive
 Q-Art B-positive
 ( I-positive
@@ -2917,12 +2917,12 @@ en I-neutral
 la O
 calidad I-positive
 de O
-sus I-negative
+sus I-neutral
 productos B-positive
 como O
 en I-neutral
 el O
-exquisito I-negative
+exquisito I-neutral
 trato B-positive
 de I-positive
 su O
@@ -3391,7 +3391,7 @@ más B-positive
 personal B-positive
 o I-positive
 cogiendo O
-menos I-negative
+menos I-neutral
 servicios B-negative
 ) I-negative
 . O

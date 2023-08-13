@@ -43,8 +43,8 @@
 
 #UNK# B-positive
 счет B-positive
-оказался B-positive
-весьма I-positive
+оказался I-positive
+весьма B-positive
 приличным B-positive
 . I-positive
 но B-positive
@@ -73,8 +73,8 @@
 же I-positive
 долго O
 не I-positive
-могли I-positive
-принести B-positive
+могли B-positive
+принести I-positive
 , I-positive
 как B-positive
 и I-positive
@@ -444,8 +444,8 @@
 этом B-positive
 ресторане B-positive
 была B-positive
-последний B-positive
-раз I-positive
+последний I-positive
+раз B-positive
 #UNK# B-positive
 4 I-positive
 назад O
@@ -613,8 +613,8 @@
 у I-positive
 меня O
 не I-positive
-возникло B-positive
-почти I-positive
+возникло I-positive
+почти B-positive
 никаких I-positive
 претензий B-positive
 . O
@@ -1412,8 +1412,8 @@
 брускеты I-positive
 и I-positive
 мы B-positive
-стали B-positive
-ждать I-positive
+стали I-positive
+ждать B-positive
 … B-positive
 но I-positive
 к I-positive
@@ -1467,8 +1467,8 @@
 конце B-positive
 вечера O
 мы I-positive
-забрали B-positive
-то I-positive
+забрали I-positive
+то B-positive
 , I-positive
 что B-positive
 осталось B-positive
@@ -1627,8 +1627,8 @@
 я I-positive
 больше O
 не I-positive
-пойду B-positive
-! I-positive
+пойду I-positive
+! B-positive
 ! I-positive
 ! O
 
@@ -1869,8 +1869,8 @@
 
 Мы O
 попробовали I-positive
-отпраздновать B-positive
-день I-positive
+отпраздновать I-positive
+день B-positive
 рождения I-positive
 нашей B-positive
 дочери I-positive
@@ -2255,8 +2255,8 @@
 очень I-positive
 понравились B-positive
 ! I-positive
-! I-positive
 ! O
+! I-positive
 ( I-positive
 повару O
 за B-positive
@@ -2342,8 +2342,8 @@
 время O
 , I-positive
 чтобы B-positive
-оставить B-positive
-свой I-positive
+оставить I-positive
+свой B-positive
 отзыв B-positive
 и I-positive
 выразить O
@@ -2423,8 +2423,8 @@
 была O
 , I-positive
 это B-positive
-говорит B-positive
-о I-positive
+говорит I-positive
+о B-positive
 том B-positive
 , I-positive
 что B-positive
@@ -3204,8 +3204,8 @@ S O
 , I-positive
 остальное O
 не I-positive
-поняла B-positive
-) I-positive
+поняла I-positive
+) B-positive
 ) I-positive
 ) O
 , I-positive
@@ -3470,8 +3470,8 @@ S O
 очень I-positive
 располагает B-positive
 зайти I-positive
-внутрь B-positive
-... I-positive
+внутрь I-positive
+... B-positive
 так I-positive
 бы O
 не I-positive
@@ -3765,8 +3765,8 @@ s O
 правда B-positive
 , I-positive
 цены B-positive
-далеко B-positive
-не I-positive
+далеко I-positive
+не B-positive
 низкие B-positive
 , I-positive
 особенно O
@@ -3811,10 +3811,10 @@ s O
 но B-positive
 к I-positive
 нам B-positive
-пол B-positive
-часа I-positive
-никто B-positive
-не I-positive
+пол I-positive
+часа B-positive
+никто I-positive
+не B-positive
 подходил B-positive
 , I-positive
 официанты B-positive
@@ -4429,8 +4429,8 @@ VIP O
 , O
 к I-positive
 сожалению B-positive
-имя B-positive
-не I-positive
+имя I-positive
+не B-positive
 запомнил B-positive
 , I-positive
 обслуживание O
@@ -4676,8 +4676,8 @@ VIP O
 #UNK# B-positive
 и I-positive
 если B-positive
-хотите B-positive
-туда I-positive
+хотите I-positive
+туда B-positive
 попасть B-positive
 вечером I-positive
 , I-positive
@@ -4690,8 +4690,8 @@ VIP O
 
 А O
 31 I-positive
-мая I-positive
-посетили B-positive
+мая B-positive
+посетили I-positive
 с I-positive
 друзьями B-positive
 это O
@@ -5015,8 +5015,8 @@ VIP O
 
 Был B-positive
 заказан B-positive
-отдельный B-positive
-VIP I-positive
+отдельный I-positive
+VIP B-positive
 зал B-positive
 , I-positive
 на B-positive
@@ -5184,8 +5184,8 @@ VIP I-positive
 ( O
 на I-positive
 счет B-positive
-#UNK# B-positive
 #UNK# I-positive
+#UNK# B-positive
 % B-positive
 в I-positive
 #UNK# B-positive
@@ -5389,8 +5389,8 @@ VIP I-positive
 а I-positive
 двое B-positive
 не I-positive
-смогли I-positive
-прийти B-positive
+смогли B-positive
+прийти I-positive
 и I-positive
 сумма B-positive
 заказа B-positive
@@ -6319,8 +6319,8 @@ VIP I-positive
 ресторана B-positive
 благодарность B-positive
 за I-positive
-организацию I-positive
-работы B-positive
+организацию B-positive
+работы I-positive
 по I-positive
 #UNK# B-positive
 юбилея I-positive
@@ -6654,10 +6654,10 @@ VIP I-positive
 работе O
 и I-positive
 мы B-positive
-, O
-#UNK# I-positive
 , I-positive
 #UNK# B-positive
+, O
+#UNK# I-positive
 в I-positive
 этот B-positive
 замечательный I-positive
